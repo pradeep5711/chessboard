@@ -9,7 +9,7 @@
     padding-left: 13px;
 }
 .bg{
-    background-image: url(image/cdWDRq.jpg);
+    background-image: url('image/cdWDRq.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     
