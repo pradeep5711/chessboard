@@ -1,0 +1,19 @@
+.whitespan{
+    color: #a59b9b;
+    font-size: 32px;
+    padding-left: 13px;
+}
+.blackspan{
+    color:#bc4709;
+    font-size: 32px;
+    padding-left: 13px;
+}
+.bg{
+    background-image: url('https://wallpaperaccess.com/full/1189108.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+body{
+    color: #560d0d;
+}
